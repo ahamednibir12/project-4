@@ -11,7 +11,7 @@ body{
   height: 760px;
   background-repeat: no-repeat;
 }
-.section2{
+.section-2{
 background-color: #161619;
 height: 200px;
 text-align: center;
@@ -19,6 +19,9 @@ padding-top: 80px;
 font-size: 60px;
 color: #FFFFFF;
 margin-top: 0%;
+}
+.you{
+  font-size: 100px;
 }
 span{
   font-size: 50px;
